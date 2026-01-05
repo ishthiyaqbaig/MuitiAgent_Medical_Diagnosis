@@ -45,9 +45,6 @@ Symptoms: Fever, cough, mild fatigue
 - If cough persists >5 days, follow up for bacterial screening  
 
 ⚠️ *Note: This output is advisory only — not a medical prescription.*
->>>>>>> 9b777f7 (Initial commit)
-
----
 
 ## ⚙️ Setup Instructions  
 
@@ -82,10 +79,6 @@ streamlit run app.py
 
 Now open your browser and visit 👉 http://localhost:8501
 
-<<<<<<< HEAD
-=======
----
-
 ☁️ Deployment (Streamlit Cloud)
 
 1️⃣ Push your code to GitHub
@@ -113,8 +106,6 @@ Value: your Gemini API key
 
 ✅ No medical data is shared externally except for Gemini analysis calls.
 
----
->>>>>>> 9b777f7 (Initial commit)
 🧰 Project Structure
 ```
 📁 MEDICAL/
